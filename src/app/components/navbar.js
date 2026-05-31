@@ -1,3 +1,4 @@
+// Componente Navbar - rama feature/navbar
 "use client";
 
 export default function Navbar() {
