@@ -1,3 +1,4 @@
+// Página de contacto - rama feature/contacto
 "use client";
 
 import { useState, useEffect, Suspense } from "react";
